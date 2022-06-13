@@ -1,6 +1,5 @@
-### Hi there 👋
+### - 👋 Olá eu sou o Pedro 
 
-- 👋 Olá eu sou o Pedro 
 - 🔭 Graduado em Ciencia da Computação (2019)
 - 🔭 Atualmente como Squad Lead
 - 👨‍💻  Mais de 5 anos de experiencia
