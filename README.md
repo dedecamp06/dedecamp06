@@ -1,8 +1,8 @@
 ### - 👋 Olá eu sou o Pedro 
 
 - 🔭 Graduado em Ciencia da Computação (2019)
-- 🔭 Atualmente como Squad Lead
-- 👨‍💻  Mais de 5 anos de experiência
+- 🔭 Trabalhando atualmente como Squad Lead
+- 👨‍💻  Mais de 5 anos de experiência(2018-2022)
 - 🌱 Estudando e aprimorando conhecimento dos mais diversos patterns voltado ao back-end
 - ⚡ Apaixonado por Back-End
 
