@@ -8,7 +8,7 @@
 
 
 #### Linkedin:
-<img align="left" alt="Linkedin" width="40px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" />
+<img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" />
 
 
 #### Languages and Tools
