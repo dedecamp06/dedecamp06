@@ -6,6 +6,7 @@
 - 🌱 Estudando e aprimorando conhecimento dos mais diversos patterns voltado ao back-end;
 - ⚡ Apaixonado por Back-End;
 
+####
 <img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" />
 
 <br> </br>
