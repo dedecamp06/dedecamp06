@@ -6,12 +6,11 @@
 - 🌱 Estudando e aprimorando conhecimento dos mais diversos patterns voltado ao back-end;
 - ⚡ Apaixonado por Back-End;
 
-### Linkedin
-<img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" />
 
-#### Conecte-se comigo:
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
+
+#### Linkedin:
+<img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" />
 
 #### Languages and Tools
 
