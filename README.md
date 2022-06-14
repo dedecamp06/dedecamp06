@@ -16,7 +16,7 @@
 <img align="left" alt="AWS" width="80px" src="https://tm.ibxk.com.br/2022/03/08/08143252032281.jpg?ims=1120x420" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="NestJs" width="49px" src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png" />
-<img align="left" alt="Docker" width="26px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
+<img align="left" alt="Docker" width="49px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
 <img align="left" alt="RabbitMQ" width="26px" src="https://suporte.alclaudius.com.br/static/img/logo/rabbitmq-logo.png" />
 <img align="left" alt="Sequelize" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
