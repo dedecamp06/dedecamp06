@@ -3,7 +3,7 @@
 - 🔭 Graduado em Ciencia da Computação (2019)
 - 🔭 Atualmente como Squad Lead
 - 👨‍💻  Mais de 5 anos de experiência
-- 🌱 Estudando os mais diversos patterns voltado ao back-end
+- 🌱 Estudando e aprimorando conhecimento dos mais diversos patterns voltado ao back-end
 - ⚡ Apaixonado por Back-End
 
 
