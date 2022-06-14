@@ -9,7 +9,7 @@
 ####
 <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-silva-6192b0161/"><img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" /> </a>
 ####
-<a href="https://drive.google.com/file/d/1quqWUdRhblh2Ie3FrQ2WVmwjQSPZW5kX/view"><img align="left" alt="TCC" width="80px" src="https://lh4.googleusercontent.com/ZiZbnax-K7GTedLqSp4wAMkhgNRHOxovPBPJ-6PdtMfr6PXLuKob7-S03wQkBcvi013Skd9LgsT7b5qnUmacQ_n779hqo8SStX-7N9TkPnvRVLm71OISkX8xTooXe29h20LcTkzv" /> </a>
+<a href="https://drive.google.com/file/d/1quqWUdRhblh2Ie3FrQ2WVmwjQSPZW5kX/view"><img align="left" alt="TCC" width="60px" src="https://lh4.googleusercontent.com/ZiZbnax-K7GTedLqSp4wAMkhgNRHOxovPBPJ-6PdtMfr6PXLuKob7-S03wQkBcvi013Skd9LgsT7b5qnUmacQ_n779hqo8SStX-7N9TkPnvRVLm71OISkX8xTooXe29h20LcTkzv" /> </a>
 <br> </br>
 #### Tecnologias
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
