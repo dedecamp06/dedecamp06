@@ -1,4 +1,4 @@
-#### - 👋 Olá eu sou o Pedro 
+#### 👋 Olá eu sou o Pedro 
 
 - 🔭 Graduado em Ciencia da Computação (2019);
 - 🔭 Trabalhando atualmente como Squad Lead;
