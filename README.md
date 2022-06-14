@@ -1,17 +1,17 @@
-#### 👋 Olá eu sou o Pedro 
+#### 👋 Hi i am Pedro 
 
-- 🔭 Graduado em Ciencia da Computação (2019);
-- 🔭 Trabalhando atualmente como Squad Lead;
-- 👨‍💻  Mais de 5 anos de experiência como dev;
-- 🌱 Estudando e aprimorando conhecimento dos mais diversos patterns voltado ao back-end;
-- ⚡ Apaixonado por Back-End;
+- 🔭 Graduate in Computer Science (2019)
+- 🔭 Currently working as Squad Lead
+- 👨‍💻 More than five years of experience in the field;
+- 🌱 Studying and improving knowledge of design patterns facing the back-end;
+- ⚡ In love with Back-End;
 
 ####
 <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-silva-6192b0161/"><img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" /> </a>
 ####
 <a href="https://drive.google.com/file/d/1quqWUdRhblh2Ie3FrQ2WVmwjQSPZW5kX/view"><img align="left" alt="TCC" width="62px" src="https://lh4.googleusercontent.com/ZiZbnax-K7GTedLqSp4wAMkhgNRHOxovPBPJ-6PdtMfr6PXLuKob7-S03wQkBcvi013Skd9LgsT7b5qnUmacQ_n779hqo8SStX-7N9TkPnvRVLm71OISkX8xTooXe29h20LcTkzv" /> </a>
 <br> </br>
-#### Tecnologias
+#### Tecs:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" alt="AWS" width="60px" src="https://tm.ibxk.com.br/2022/03/08/08143252032281.jpg?ims=1120x420" />
