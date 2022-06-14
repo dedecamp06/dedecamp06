@@ -7,7 +7,7 @@
 - ⚡ Apaixonado por Back-End;
 
 ####
-<img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" />
+<img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" href="https://www.linkedin.com/in/pedro-henrique-de-souza-silva-6192b0161/" />
 
 <br> </br>
 #### Tecnologias
