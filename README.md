@@ -3,7 +3,7 @@
 - 🔭 Graduate in Computer Science (2019)
 - 🔭 Currently working as Squad Lead
 - 👨‍💻 More than five years of experience in the field;
-- 🌱 Studying and improving knowledge of design patterns facing the back-end;
+- 🌱 Studying and improving knowledge of design patterns facing the back-end and serverless;
 - ⚡ Love back-end;
 
 ####
