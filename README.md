@@ -7,8 +7,6 @@
 - ⚡ Love back-end;
 
 ####
-<a href="https://www.linkedin.com/in/pedro-henrique-de-souza-silva-6192b0161/"><img align="left" alt="Linkedin" width="80px" src="https://tm.ibxk.com.br/2022/04/21/21104125110049.jpg?ims=1120x420" /> </a>
-####
 <br> </br>
 #### Tecs:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
