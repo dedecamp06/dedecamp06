@@ -1,7 +1,7 @@
 #### 👋 Hi i am Pedro 
 
 - 🔭 Graduate in Computer Science (2019)
-- 🔭 Currently working as Developer Back-end
+- 🔭 Currently working as Tech Lead and Developer Back-end
 - 👨‍💻 More than five years of experience in the field;
 - 🌱 Studying and improving knowledge of design patterns facing the back-end and serverless;
 - ⚡ Love back-end;
