@@ -23,6 +23,5 @@ My name is Pedro, actualy working as Tech Lead and Senior Developer
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Java" width="26px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*CTuO-w7wiq_yhLh9plnkCw.png" />
 <img align="left" alt="Quarkus" width="26px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*CTuO-w7wiq_yhLh9plnkCw.png" />
 
