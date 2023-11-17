@@ -6,6 +6,8 @@ My name is Pedro, actualy working as Tech Lead and Senior Developer
 - 👨‍💻 More than seven years of professional experience in the area;
 - 🌱 Studying and improving knowledge of design patterns facing the back-end;
 - ⚡ Love back-end;
+
+Contact as: pedrosouza-developer@hotmail.com
 #### </br>
 #### Tecs:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
