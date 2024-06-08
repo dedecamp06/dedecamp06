@@ -3,7 +3,7 @@ My name is Pedro, actualy working as Tech Lead and Senior Developer
 
 - 🔭 Graduate in Computer Science (2019);
 - 🔭 Since 1997;
-- 👨‍💻 More than seven years of professional experience in the area;
+- 👨‍💻 Seven years of professional experience in the area;
 - 🌱 Studying and improving knowledge of design patterns facing the back-end;
 - ⚡ Love back-end;
 
