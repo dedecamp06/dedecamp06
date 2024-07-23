@@ -1,5 +1,5 @@
 Hello, welcome.
-My name is Pedro, actualy working as Tech Lead and Senior Developer
+My name is Pedro, actualy working as Tech Lead and Developer Back-End
 
 - 🔭 Graduate in Computer Science (2019);
 - 🔭 Since 1997;
