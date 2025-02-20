@@ -16,7 +16,6 @@ Contact as: pedrosouza-developer@hotmail.com
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="NestJs" width="49px" src="https://docs.nestjs.com/assets/logo-small-gradient.svg" />
 <img align="left" alt="Docker" width="59px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
-<img align="left" alt="Sequelize" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png" />
 <img align="left" alt="Type ORM" width="26px" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />
