@@ -1,11 +1,10 @@
 Hello, welcome.
 My name is Pedro, actualy working as Tech Lead and Developer Back-End
 
-- 🔭 Graduate in Computer Science (2019);
-- 🔭 Since 1997;
-- 👨‍💻 Seven years of professional experience in the area;
-- 🌱 Studying and improving knowledge of design patterns facing the back-end;
-- ⚡ Love back-end;
+- 🔭Graduate in Computer Science (2019);
+-  Since 1997;
+-  Seven years of professional experience in the area;
+-  Love back-end;
 
 Contact as: pedrosouza-developer@hotmail.com
 #### </br>
