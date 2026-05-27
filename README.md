@@ -1,7 +1,7 @@
 Hello, welcome.
 My name is Pedro, actualy working as Tech Lead and Developer Back-End
 
-- 🔭Graduate in Computer Science (2019);
+-  Graduate in Computer Science (2019);
 -  Since 1997;
 -  Seven years of professional experience in the area;
 -  Love back-end;
